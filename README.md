@@ -1,7 +1,7 @@
 ## 動作環境
 - Python 3.6以上 （3.7以上推奨）
 
-# ※使い方
+## ※使い方
 1.Pythonのrequestsライブラリをインストールする。
 ```
 pip install requests
